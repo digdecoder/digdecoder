@@ -1,16 +1,21 @@
-### Hi there 👋
+👋🏻Hi,  I am digdecoder!
 
-<!--
-**digdecoder/digdecoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌟About me:
+-💿 I am currently studying CS.
+-👩🏻‍💻 I am passionate about technology and always ready to learn something new.
+-🍃 I am currently learning more about C++ and HTML to strengthen my logic building ,concepts and enhance my coding skills.
+-🌃 I believe in, there is always "one more thing" to learn.
 
-Here are some ideas to get you started:
+💻Tech stack:
+-📦Languages: C++, HTML and CSS
+-🛠️Tools: Visual Studio, Photoshop.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀Projects:
+-🌐 I am currently working on a website and learning more of it.
+-🎯 Plus, I am trying to make some games in my spare time.
+
+🫱🏻‍🫲🏻Lets connect:
+-📖How to reach me: Drop a message on GitHub.
+-FunFact: When I am not coding, I am spending time with my family or studying for exams.
+
+It's the start of my journey, Come Join me!
