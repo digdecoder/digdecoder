@@ -15,7 +15,7 @@
 - 🎯 Plus, I am trying to make some games in my spare time.
 
 🫱🏻‍🫲🏻 **Lets connect:** 
-- 📖How to reach me: Drop a message on GitHub.
+- 📖How to contact me: Drop a message on GitHub or you can DM me on Instagram and Linkedin @digdecoder.
 - ⚔️FunFact: When I am not coding, I am spending time with my family or studying for exams.
 
 It's the start of my journey, Come Join me! 💪🏻💝
